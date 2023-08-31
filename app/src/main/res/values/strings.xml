@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Prueba1</string>
+    <string name="ingresa_la_primera_cadena">Ingresa la primera cadena</string>
+    <string name="ingresa_la_segunda_cadena">Ingresa la segunda cadena</string>
+    <string name="comparar">Comparar</string>
+
+    <string name="action_settings">Opciones</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Primer fragmento</string>
+    <string name="second_fragment_label">Segundo fragmento</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Previo</string>
+
+    <string name="lorem_ipsum">
+       Aqui aparece el texto del primer fragmento.
+    </string>
+
+</resources>
